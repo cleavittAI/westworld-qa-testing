@@ -1,9 +1,5 @@
 # WestworldQA: LLM-Based Testing for Chatbot Policy Compliance
 
-<p align="center">
-<img src="https://path-to-your-logo-or-image.png" alt="WestworldQA Logo" width="300"/>
-</p>
-
 *"These violent delights have automated ends..."*
 
 ## 🤖 Overview
