@@ -65,7 +65,7 @@ Adjust temperature and other parameters to control creativity (higher for attack
 
 ## 📘 Read More
 
-To learn more about this project, read my [LinkedIn article](https://www.linkedin.com/post/your-post-id-here) on using LLMs to QA test customer service chatbots.
+To learn more about this project, and my other AI related articles look me up on LinkedIn: https://www.linkedin.com/in/craigleavitt1/
 
 ## 📄 License
 
