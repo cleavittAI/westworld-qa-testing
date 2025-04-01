@@ -46,6 +46,7 @@ python westworld_qa.py \
   --target-model accounts/fireworks/models/deepseek-v3  \
   --evaluator-model accounts/fireworks/models/mixtral-8x22b-instruct \
   --num-tests 20
+  --api_key your_api_key
 ```
 
 
